@@ -1,0 +1,3 @@
+﻿  veri yapıları.cpp
+C:\veri yapıları\veri yapıları.cpp(361,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  veri yapıları.vcxproj -> C:\veri yapıları\x64\Debug\veri yapıları.exe
