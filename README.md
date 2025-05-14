@@ -1,6 +1,6 @@
 # Veri Yapıları Uygulama Projesi
 
-Bu proje, **Veri Yapıları** dersi kapsamında hazırlanmıştır ve temel veri yapılarının nesne yönelimli programlama (OOP) ilkeleriyle nasıl uygulanabileceğini göstermektedir. Projede **Yığın**, **Kuyruk**, **Tek Yönlü Bağlı Liste**, **İkili Ağaç** ve **Çırpılama (Hash Tablosu)** veri yapıları, kullanıcı etkileşimli bir menü sistemiyle birlikte sunulmuştur.📄 [Proje PDF Dokümanı](./VERI_YAPILARI_Proje.pdf) bu linkten ayrıntılara ulaşabilirsiniz.
+Bu proje, **Veri Yapıları** dersi kapsamında hazırlanmıştır ve temel veri yapılarının nesne yönelimli programlama (OOP) ilkeleriyle nasıl uygulanabileceğini göstermektedir. Projede **Yığın**, **Kuyruk**, **Tek Yönlü Bağlı Liste**, **İkili Ağaç** ve **Çırpılama (Hash Tablosu)** veri yapıları, kullanıcı etkileşimli bir menü sistemiyle birlikte sunulmuştur.📄 [Proje PDF Dokümanı](./veri-yapilari.pdf) bu linkten ayrıntılara ulaşabilirsiniz.
 
 
 ## 📌 Proje Özellikleri
